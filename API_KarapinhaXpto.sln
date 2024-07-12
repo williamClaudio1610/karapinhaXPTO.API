@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_KarapinhaXpto", "KarapinhaXpto.Api\API_KarapinhaXpto.csproj", "{04834C1E-26A5-4C14-B89F-459AA899AC73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaXpto.DAL", "KarapinhaXpto.DAL\KarapinhaXpto.DAL.csproj", "{B48B49B1-6280-4D50-9074-6BADBA4CDBF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaXpto.Services", "KarapinhaXpto.Service\KarapinhaXpto.Services.csproj", "{9F36C63B-72DA-4056-A493-A78CEFE3443A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaXpto.Shared", "KarapinhaXpto.Shared\KarapinhaXpto.Shared.csproj", "{B3989BF3-D557-470B-A05D-6E35C65BA5BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaXpto.DTO", "KarapinhaXpto.DTO\KarapinhaXpto.DTO.csproj", "{16B2774C-6BA1-4FB7-920C-DAA831109E21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaXpto.Model", "KarapinhaXpto.Model\KarapinhaXpto.Model.csproj", "{5A566B48-D3B8-49A6-87BC-E07EBA0F523A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04834C1E-26A5-4C14-B89F-459AA899AC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04834C1E-26A5-4C14-B89F-459AA899AC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04834C1E-26A5-4C14-B89F-459AA899AC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04834C1E-26A5-4C14-B89F-459AA899AC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48B49B1-6280-4D50-9074-6BADBA4CDBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48B49B1-6280-4D50-9074-6BADBA4CDBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48B49B1-6280-4D50-9074-6BADBA4CDBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48B49B1-6280-4D50-9074-6BADBA4CDBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F36C63B-72DA-4056-A493-A78CEFE3443A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F36C63B-72DA-4056-A493-A78CEFE3443A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F36C63B-72DA-4056-A493-A78CEFE3443A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F36C63B-72DA-4056-A493-A78CEFE3443A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3989BF3-D557-470B-A05D-6E35C65BA5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3989BF3-D557-470B-A05D-6E35C65BA5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3989BF3-D557-470B-A05D-6E35C65BA5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3989BF3-D557-470B-A05D-6E35C65BA5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B2774C-6BA1-4FB7-920C-DAA831109E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B2774C-6BA1-4FB7-920C-DAA831109E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B2774C-6BA1-4FB7-920C-DAA831109E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B2774C-6BA1-4FB7-920C-DAA831109E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A566B48-D3B8-49A6-87BC-E07EBA0F523A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A566B48-D3B8-49A6-87BC-E07EBA0F523A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A566B48-D3B8-49A6-87BC-E07EBA0F523A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A566B48-D3B8-49A6-87BC-E07EBA0F523A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D54CA9-EAD7-4890-8E47-46AE2723135F}
+	EndGlobalSection
+EndGlobal
